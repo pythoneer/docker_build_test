@@ -15,3 +15,13 @@ start locally with
 ```bash
 cargo make start
 ```
+
+build locally with
+```bash
+cargo make build
+```
+
+build locally in release mode with
+```bash
+cargo make build_release
+```
